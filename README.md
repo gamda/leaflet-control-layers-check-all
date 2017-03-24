@@ -10,8 +10,7 @@ Options:
 * **icon**: string indicating which [FontAwesome](http://fontawesome.io/)
     icon to use. Default: `podcast`
 * **color**: string representing hex color. Default: `#000000`
-* **allText**: string to show on checkbox. 
-    Default: `Todos`
+* **allText**: string to show on checkbox. Default: `All`
 
 Methods:
 * **showAll()**: add all layers in the control to map

@@ -18,7 +18,9 @@ Methods:
 
 If you don't want the background image added by leaflet, add this CSS:
 
+```css
 .gamda-control-layers .leaflet-control-layers-toggle {  
     background-image: none;  
     color: #000000; /* is overriden by color in options */  
 }
+```
